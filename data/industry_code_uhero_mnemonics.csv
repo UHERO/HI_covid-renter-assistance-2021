@@ -1,0 +1,272 @@
+2017 Census Code,Industry_Sector,Industry_Description,NAICS,UHERO_mnemonic
+170,"Agriculture, Forestry, Fishing, and Hunting, and Mining",Crop production  ,111,EAG
+180,"Agriculture, Forestry, Fishing, and Hunting, and Mining",Animal production and aquaculture,112,EAG
+190,"Agriculture, Forestry, Fishing, and Hunting, and Mining",Forestry except logging ,"1131, 1132",EAG
+270,"Agriculture, Forestry, Fishing, and Hunting, and Mining",Logging ,1133,EAG
+280,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Fishing, hunting and trapping ",114,EAG
+290,"Agriculture, Forestry, Fishing, and Hunting, and Mining",Support activities for agriculture and forestry ,115,EAG
+370,"Mining, Quarrying, and Oil and Gas Extraction",Oil and gas extraction ,211,ECT
+380,"Mining, Quarrying, and Oil and Gas Extraction",Coal mining ,2121,ECT
+390,"Mining, Quarrying, and Oil and Gas Extraction",Metal ore mining ,2122,ECT
+470,"Mining, Quarrying, and Oil and Gas Extraction",Nonmetallic mineral mining and quarrying ,2123,ECT
+480,"Mining, Quarrying, and Oil and Gas Extraction",Not specified type of mining,Part of 21,ECT
+490,"Mining, Quarrying, and Oil and Gas Extraction",Support activities for mining ,213,ECT
+770,Construction,Construction (the cleaning of buildings and dwellings is incidental during construction and immediately after construction),23,ECT
+1070,Manufacturing,"Animal food, grain and oilseed milling ","3111, 3112",EMN
+1080,Manufacturing,Sugar and confectionery products ,3113,EMN
+1090,Manufacturing,Fruit and vegetable preserving and specialty food manufacturing              ,3114,EMN
+1170,Manufacturing,Dairy product manufacturing,3115,EMN
+1180,Manufacturing,Animal slaughtering and processing ,3116,EMN
+1190,Manufacturing,Retail bakeries ,311811,EMN
+1270,Manufacturing,"Bakeries and tortilla manufacturing, except retail bakeries ",3118 exc. 311811,EMN
+1280,Manufacturing,"Seafood and other miscellaneous foods, n.e.c. ","3117, 3119",EMN
+1290,Manufacturing,Not specified food industries,Part of 311,EMN
+1370,Manufacturing,Beverage manufacturing,3121,EMN
+1390,Manufacturing,Tobacco manufacturing,3122,EMN
+1470,Manufacturing,"Fiber, yarn, and thread mills ",3131,EMN
+1480,Manufacturing,"Fabric mills, except knitting mills",3132 exc. 31324,EMN
+1490,Manufacturing,Textile and fabric finishing and fabric coating mills ,3133,EMN
+1570,Manufacturing,Carpet and rug mills,31411,EMN
+1590,Manufacturing,"Textile product mills, except carpet and rug",314 exc. 31411,EMN
+1670,Manufacturing,"Knitting fabric mills, and apparel knitting mills ","31324, 3151",EMN
+1691,Manufacturing,"Cut and sew, and apparel accessories and other apparel manufacturing","3152, 3159",EMN
+1770,Manufacturing,Footwear manufacturing,3162,EMN
+1790,Manufacturing,"Leather and hide tanning and finishing, and other leather and allied product manufacturing","3161, 3169",EMN
+1870,Manufacturing,"Pulp, paper, and paperboard mills ",3221,EMN
+1880,Manufacturing,Paperboard container manufacturing,32221,EMN
+1890,Manufacturing,Miscellaneous paper and pulp products  ,"32222,32223, 32229",EMN
+1990,Manufacturing,Printing and related support activities ,3231,EMN
+2070,Manufacturing,Petroleum refining ,32411,EMN
+2090,Manufacturing,Miscellaneous petroleum and coal products ,"32412, 32419",EMN
+2170,Manufacturing,"Resin, synthetic rubber, and fibers and filaments manufacturing   ",3252,EMN
+2180,Manufacturing,Agricultural chemical manufacturing  ,3253,EMN
+2190,Manufacturing,Pharmaceutical and medicine manufacturing,3254,EMN
+2270,Manufacturing,"Paint, coating, and adhesive manufacturing ",3255,EMN
+2280,Manufacturing,"Soap, cleaning compound, and cosmetics manufacturing ",3256,EMN
+2290,Manufacturing,Industrial and miscellaneous chemicals ,"3251, 3259",EMN
+2370,Manufacturing,Plastics product manufacturing ,3261,EMN
+2380,Manufacturing,Tire manufacturing ,32621,EMN
+2390,Manufacturing,"Rubber products, except tires, manufacturing ","32622, 32629",EMN
+2470,Manufacturing,"Pottery, ceramics, and plumbing fixture manufacturing  ",32711,EMN
+2480,Manufacturing,Clay building material and refractories manufacturing,327120,EMN
+2490,Manufacturing,Glass and glass product manufacturing ,3272,EMN
+2570,Manufacturing,"Cement, concrete, lime, and gypsum product manufacturing ","3273, 3274",EMN
+2590,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing ,3279,EMN
+2670,Manufacturing,Iron and steel mills and steel product manufacturing  ,"3311, 3312",EMN
+2680,Manufacturing,Aluminum production and processing  ,3313,EMN
+2690,Manufacturing,Nonferrous metal (except aluminum) production and processing ,3314,EMN
+2770,Manufacturing,Foundries ,3315,EMN
+2780,Manufacturing,Metal forgings and stampings ,3321,EMN
+2790,Manufacturing,Cutlery and hand tool manufacturing  ,3322,EMN
+2870,Manufacturing,"Structural metals, and boiler, tank, and shipping container manufacturing ","3323, 3324",EMN
+2880,Manufacturing,"Machine shops; turned product; screw, nut, and bolt manufacturing  ",3327,EMN
+2890,Manufacturing,"Coating, engraving, heat treating, and allied activities ",3328,EMN
+2970,Manufacturing,Ordnance ,"332992, 332993, 332994, 332996",EMN
+2980,Manufacturing,Miscellaneous fabricated metal products manufacturing             ,"3325, 3326, 3329 exc. 332992, 332993, 332994, 332996",EMN
+2990,Manufacturing,Not specified metal industries,Part of 331 and 332,EMN
+3070,Manufacturing,Agricultural implement manufacturing ,33311,EMN
+3080,Manufacturing,"Construction, and mining and oil and gas field machinery manufacturing ","33312, 33313",EMN
+3095,Manufacturing,Commercial and service industry machinery manufacturing,3333,EMN
+3170,Manufacturing,Metalworking machinery manufacturing,3335,EMN
+3180,Manufacturing,"Engine, turbine, and power transmission equipment manufacturing",3336,EMN
+3291,Manufacturing,"Machinery manufacturing, n.e.c. or not specified","3332, 3334, 3339, Part of 333",EMN
+3365,Manufacturing,Computer and peripheral equipment manufacturing,3341,EMN
+3370,Manufacturing,"Communications, audio, and video equipment manufacturing","3342, 3343",EMN
+3380,Manufacturing,"Navigational, measuring, electromedical, and control instruments manufacturing",3345,EMN
+3390,Manufacturing,"Electronic component and product manufacturing, n.e.c. ","3344, 3346",EMN
+3470,Manufacturing,Household appliance manufacturing ,3352,EMN
+3490,Manufacturing,"Electric lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.","3351, 3353, 3359",EMN
+3570,Manufacturing,Motor vehicles and motor vehicle equipment manufacturing ,"3361, 3362, 3363",EMN
+3580,Manufacturing,Aircraft and parts manufacturing,"336411, 336412, 336413",EMN
+3590,Manufacturing,Aerospace products and parts manufacturing ,"336414, 336415, 336419",EMN
+3670,Manufacturing,Railroad rolling stock manufacturing,3365,EMN
+3680,Manufacturing,Ship and boat building ,3366,EMN
+3690,Manufacturing,Other transportation equipment manufacturing,3369,EMN
+3770,Manufacturing,Sawmills and wood preservation ,3211,EMN
+3780,Manufacturing,"Veneer, plywood, and engineered wood products ",3212,EMN
+3790,Manufacturing,Prefabricated wood buildings and mobile homes manufacturing,"321991, 321992",EMN
+3875,Manufacturing,Miscellaneous wood products ,"3219 exc. 321991, 321992",EMN
+3895,Manufacturing,Furniture and related product manufacturing ,337,EMN
+3960,Manufacturing,Medical equipment and supplies manufacturing,3391,EMN
+3970,Manufacturing,"Sporting and athletic goods, and doll, toy and game manufacturing","33992, 33993",EMN
+3980,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ","3399 exc. 33992, 33993",EMN
+3990,Manufacturing,Not specified manufacturing industries,"Part of 31, 32, 33",EMN
+4070,Wholesale Trade,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,4231,E_TRADE
+4080,Wholesale Trade,Furniture and home furnishing merchant wholesalers   ,4232,E_TRADE
+4090,Wholesale Trade,Lumber and other construction materials merchant wholesalers ,4233,E_TRADE
+4170,Wholesale Trade,Professional and commercial equipment and supplies merchant wholesalers,4234,E_TRADE
+4180,Wholesale Trade,"Metals and minerals, except petroleum, merchant wholesalers                         ",4235,E_TRADE
+4195,Wholesale Trade,Household appliances and electrical and electronic goods merchant wholesalers ,4236,E_TRADE
+4265,Wholesale Trade,"Hardware, and plumbing and heating equipment, and supplies merchant wholesalers",4237,E_TRADE
+4270,Wholesale Trade,"Machinery, equipment, and supplies merchant wholesalers     ",4238,E_TRADE
+4280,Wholesale Trade,Recyclable material merchant wholesalers ,42393,E_TRADE
+4290,Wholesale Trade,Miscellaneous durable goods merchant wholesalers    ,4239 exc. 42393,E_TRADE
+4370,Wholesale Trade,Paper and paper products merchant wholesalers ,4241,E_TRADE
+4380,Wholesale Trade,"Drugs, sundries, and chemical and allied products merchant  wholesalers ","4242, 4246",E_TRADE
+4390,Wholesale Trade,"Apparel, piece goods, and notions merchant wholesalers",4243,E_TRADE
+4470,Wholesale Trade,Grocery and related product merchant wholesalers ,4244,E_TRADE
+4480,Wholesale Trade,Farm product raw material merchant wholesalers ,4245,E_TRADE
+4490,Wholesale Trade,Petroleum and petroleum products merchant wholesalers ,4247,E_TRADE
+4560,Wholesale Trade,Alcoholic beverages merchant wholesalers ,4248,E_TRADE
+4570,Wholesale Trade,Farm supplies merchant wholesalers ,42491,E_TRADE
+4580,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers ,4249 exc. 42491,E_TRADE
+4585,Wholesale Trade,Wholesale electronic markets and agents and brokers ,4251,E_TRADE
+4590,Wholesale Trade,Not specified wholesale trade,Part of 42,E_TRADE
+4670,Retail Trade,Automobile dealers ,4411,E_TRADE
+4680,Retail Trade,Other motor vehicle dealers ,4412,E_TRADE
+4690,Retail Trade,"Automotive parts, accessories, and tire stores",4413,E_TRADE
+4770,Retail Trade,Furniture and home furnishings stores ,442,E_TRADE
+4780,Retail Trade,Household appliance stores ,443141,E_TRADE
+4795,Retail Trade,Electronics Stores,443142,E_TRADE
+4870,Retail Trade,Building material and supplies dealers  ,4441 exc. 44413,E_TRADE
+4880,Retail Trade,Hardware stores ,44413,E_TRADE
+4890,Retail Trade,Lawn and garden equipment and supplies stores ,4442,E_TRADE
+4971,Retail Trade,Supermarkets and other grocery (except convenience) stores,44511,E_TRADE
+4972,Retail Trade,Convenience Stores,44512,E_TRADE
+4980,Retail Trade,Specialty food stores,4452,E_TRADE
+4990,Retail Trade,"Beer, wine, and liquor stores ",4453,E_TRADE
+5070,Retail Trade,Pharmacies and drug stores ,44611,E_TRADE
+5080,Retail Trade,"Health and personal care, except drug, stores ",446 exc. 44611,E_TRADE
+5090,Retail Trade,Gasoline stations ,447,E_TRADE
+5170,Retail Trade,Clothing stores ,4481,E_TRADE
+5180,Retail Trade,Shoe stores ,44821,E_TRADE
+5190,Retail Trade,"Jewelry, luggage, and leather goods stores ",4483,E_TRADE
+5275,Retail Trade,"Sporting goods, and hobby and toy stores ","45111, 45112",E_TRADE
+5280,Retail Trade,"Sewing, needlework, and piece goods stores ",45113,E_TRADE
+5295,Retail Trade,Musical instrument and supplies stores ,45114,E_TRADE
+5370,Retail Trade,Book stores and news dealers ,45121,E_TRADE
+5381,Retail Trade,Department stores ,45221,E_TRADE
+5391,Retail Trade,"General merchandise stores, including warehouse clubs and supercenters ",4523,E_TRADE
+5470,Retail Trade,Florists,4531,E_TRADE
+5480,Retail Trade,Office supplies and stationery stores ,45321,E_TRADE
+5490,Retail Trade,Used merchandise stores ,4533,E_TRADE
+5570,Retail Trade,"Gift, novelty, and souvenir shops ",45322,E_TRADE
+5580,Retail Trade,Miscellaneous retail stores ,4539,E_TRADE
+5593,Retail Trade,Electronic shopping and mail-order houses,454110,E_TRADE
+5670,Retail Trade,Vending machine operators ,4542,E_TRADE
+5680,Retail Trade,Fuel dealers ,454310,E_TRADE
+5690,Retail Trade,Other direct selling establishments,45439,E_TRADE
+5790,Retail Trade,Not specified retail trade,"Part of 44, 45",E_TRADE
+6070,"Transportation and Warehousing, and Utilities     ",Air transportation ,481,E_TU
+6080,"Transportation and Warehousing, and Utilities     ",Rail transportation ,482,E_TU
+6090,"Transportation and Warehousing, and Utilities     ",Water transportation ,483,E_TU
+6170,"Transportation and Warehousing, and Utilities     ",Truck transportation ,484,E_TU
+6180,"Transportation and Warehousing, and Utilities     ",Bus service and urban transit ,"4851, 4852, 4854, 4855, 4859 ",E_TU
+6190,"Transportation and Warehousing, and Utilities     ",Taxi and limousine service ,4853,E_TU
+6270,"Transportation and Warehousing, and Utilities     ",Pipeline transportation ,486,E_TU
+6280,"Transportation and Warehousing, and Utilities     ",Scenic and sightseeing transportation ,487,E_TU
+6290,"Transportation and Warehousing, and Utilities     ",Services incidental to transportation ,488,E_TU
+6370,"Transportation and Warehousing, and Utilities     ",Postal Service ,491,E_TU
+6380,"Transportation and Warehousing, and Utilities     ",Couriers and messengers ,492,E_TU
+6390,"Transportation and Warehousing, and Utilities     ",Warehousing and storage ,493,E_TU
+570,Utilities,"Electric power generation, transmission and distribution",2211,E_TU
+580,Utilities,Natural gas distribution ,2212,E_TU
+590,Utilities,"Electric and gas, and other combinations ","Pts. 2211, 2212",E_TU
+670,Utilities,"Water, steam, air-conditioning, and irrigation systems ","22131, 22133",E_TU
+680,Utilities,Sewage treatment facilities ,22132,E_TU
+690,Utilities,Not specified utilities ,Part of 22 ,E_TU
+6470,Information ,Newspaper publishers,51111,E_ELSE
+6480,Information ,"Periodical, book, and directory publishers",5111 exc. 51111 ,E_ELSE
+6490,Information ,Software publishers,5112,E_ELSE
+6570,Information ,Motion pictures and video industries,5121,E_ELSE
+6590,Information ,Sound recording industries,5122,E_ELSE
+6670,Information ,Broadcasting (except internet),515,E_ELSE
+6672,Information ,Internet publishing and broadcasting and web search portals,51913,E_ELSE
+6680,Information ,Wired telecommunications carriers ,517311,E_ELSE
+6690,Information ,"Telecommunications, except wired telecommunications carriers ",517 exc. 517311,E_ELSE
+6695,Information ,"Data processing, hosting, and related services",5182,E_ELSE
+6770,Information ,Libraries and archives,51912,E_ELSE
+6780,Information ,"Other information services, except libraries and archives, and internet publishing and broadcasting and web search portals","5191 exc. 51912, 51913",E_ELSE
+6870,Finance and Insurance,Banking and related activities,"521, 52211,52219",E_FIR
+6880,Finance and Insurance,"Savings institutions, including credit unions ","52212, 52213",E_FIR
+6890,Finance and Insurance,Nondepository credit and related activities,"5222, 5223",E_FIR
+6970,Finance and Insurance,"Securities, commodities, funds, trusts, and other financial investments","523, 525",E_FIR
+6991,Finance and Insurance,Insurance carriers,5241,E_FIR
+6992,Finance and Insurance,"Agencies, brokerages, and other insurance related activities",5242,E_FIR
+7071,Real Estate and Rental and Leasing,"Lessors of real estate, and offices of real estate agents and brokers","5311, 5312",E_FIR
+7072,Real Estate and Rental and Leasing,"Real estate property managers, offices of real estate appraisers, and other activities related to real estate ",5313,E_FIR
+7080,Real Estate and Rental and Leasing,Automotive equipment rental and leasing ,5321,E_FIR
+7181,Real Estate and Rental and Leasing,Other consumer goods rental,"53221, 532281, 532282, 532283, 532284, 532289, 5323",E_FIR
+7190,Real Estate and Rental and Leasing,"Commercial, industrial, and other intangible assets rental and leasing","5324, 533",E_FIR
+7270,"Professional, Scientific, and Technical Services",Legal services ,5411,E_ELSE
+7280,"Professional, Scientific, and Technical Services","Accounting, tax preparation, bookkeeping, and payroll services",5412,E_ELSE
+7290,"Professional, Scientific, and Technical Services","Architectural, engineering, and related services ",5413,E_ELSE
+7370,"Professional, Scientific, and Technical Services",Specialized design services ,5414,E_ELSE
+7380,"Professional, Scientific, and Technical Services",Computer systems design and related services ,5415,E_ELSE
+7390,"Professional, Scientific, and Technical Services","Management, scientific, and technical consulting services",5416,E_ELSE
+7460,"Professional, Scientific, and Technical Services",Scientific research and development services ,5417,E_ELSE
+7470,"Professional, Scientific, and Technical Services","Advertising, public relations, and related services",5418,E_ELSE
+7480,"Professional, Scientific, and Technical Services",Veterinary services ,54194,E_ELSE
+7490,"Professional, Scientific, and Technical Services","Other professional, scientific, and technical services ",5419 exc. 54194,E_ELSE
+7570,Management of companies and enterprises,Management of companies and enterprises ,55,E_ELSE
+7580,Administrative and support and waste management services,Employment services ,5613,E_ELSE
+7590,Administrative and support and waste management services,Business support services ,5614,E_ELSE
+7670,Administrative and support and waste management services,Travel arrangements and reservation services ,5615,E_ELSE
+7680,Administrative and support and waste management services,Investigation and security services ,5616,E_ELSE
+7690,Administrative and support and waste management services,Services to buildings and dwellings (except cleaning during construction and immediately after construction) ,5617 exc. 56173,E_ELSE
+7770,Administrative and support and waste management services,Landscaping services,56173,E_ELSE
+7780,Administrative and support and waste management services,Other administrative and other support services ,"5611, 5612, 5619",E_ELSE
+7790,Administrative and support and waste management services,Waste management and remediation services ,562,E_ELSE
+7860,Educational Services,Elementary and secondary schools ,6111,E_ELSE
+7870,Educational Services,"Colleges, universities, and professional schools, including junior colleges","6112, 6113",E_ELSE
+7880,Educational Services,"Business, technical, and trade schools and training ","6114, 6115",E_ELSE
+7890,Educational Services,"Other schools and instruction, and educational support services ","6116, 6117",E_ELSE
+7970,Health Care and Social Assistance,Offices of physicians ,6211,EHC
+7980,Health Care and Social Assistance,Offices of dentists ,6212,EHC
+7990,Health Care and Social Assistance,Offices of chiropractors ,62131,EHC
+8070,Health Care and Social Assistance,Offices of optometrists ,62132,EHC
+8080,Health Care and Social Assistance,Offices of other health practitioners  ,"6213 exc. 62131, 62132",EHC
+8090,Health Care and Social Assistance,Outpatient care centers ,6214,EHC
+8170,Health Care and Social Assistance,Home health care services ,6216,EHC
+8180,Health Care and Social Assistance,Other health care services ,"6215, 6219",EHC
+8191,Health Care and Social Assistance,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals","6221, 6223",EHC
+8192,Health Care and Social Assistance,Psychiatric and substance abuse hospitals,6222,EHC
+8270,Health Care and Social Assistance,Nursing care facilities (skilled nursing facilities),6231,EHC
+8290,Health Care and Social Assistance,"Residential care facilities, except skilled nursing facilities","6232, 6233, 6239",EHC
+8370,Health Care and Social Assistance,Individual and family services ,6241,EHC
+8380,Health Care and Social Assistance,"Community food and housing, and emergency services ",6242,EHC
+8390,Health Care and Social Assistance,Vocational rehabilitation services ,6243,EHC
+8470,Health Care and Social Assistance,Child day care services ,6244,EHC
+8561,"Arts, Entertainment, and Recreation",Performing arts companies ,7111,E_ELSE
+8562,"Arts, Entertainment, and Recreation",Spectator sports,7112,E_ELSE
+8563,"Arts, Entertainment, and Recreation","Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures ","7113, 7114",E_ELSE
+8564,"Arts, Entertainment, and Recreation","Independent artists, writers, and performers",7115,E_ELSE
+8570,"Arts, Entertainment, and Recreation","Museums, art galleries, historical sites, and similar institutions",712,E_ELSE
+8580,"Arts, Entertainment, and Recreation",Bowling centers ,71395,E_ELSE
+8590,"Arts, Entertainment, and Recreation","Other amusement, gambling, and recreation industries   ",713 exc. 71395,E_ELSE
+8660,Accommodation and Food Services,Traveler accommodation ,7211,EAF
+8670,Accommodation and Food Services,"Recreational vehicle parks and camps, and rooming and boarding houses, dormitories, and workers' camps","7212, 7213",EAF
+8680,Accommodation and Food Services,Restaurants and other food services ,722 exc. 7224,EAF
+8690,Accommodation and Food Services,"Drinking places, alcoholic beverages ",7224,EAF
+8770,"Other Services, Except Public Administration",Automotive repair and maintenance ,8111 exc. 811192,E_ELSE
+8780,"Other Services, Except Public Administration",Car washes,811192,E_ELSE
+8790,"Other Services, Except Public Administration",Electronic and precision equipment repair and maintenance,8112,E_ELSE
+8870,"Other Services, Except Public Administration",Commercial and industrial machinery and equipment repair and maintenance,8113,E_ELSE
+8891,"Other Services, Except Public Administration",Personal and household goods repair and maintenance ,8114,E_ELSE
+8970,"Other Services, Except Public Administration",Barber shops ,812111,E_ELSE
+8980,"Other Services, Except Public Administration",Beauty salons ,812112,E_ELSE
+8990,"Other Services, Except Public Administration",Nail salons and other personal care services  ,"812113, 81219",E_ELSE
+9070,"Other Services, Except Public Administration",Drycleaning and laundry services ,8123,E_ELSE
+9080,"Other Services, Except Public Administration","Funeral homes, and cemeteries and crematories ",8122,E_ELSE
+9090,"Other Services, Except Public Administration",Other personal services ,8129,E_ELSE
+9160,"Other Services, Except Public Administration",Religious organizations ,8131,E_ELSE
+9170,"Other Services, Except Public Administration","Civic, social, advocacy organizations, and grantmaking and giving services","8132, 8133, 8134",E_ELSE
+9180,"Other Services, Except Public Administration",Labor unions,81393,E_ELSE
+9190,"Other Services, Except Public Administration","Business, professional, political, and similar organizations",8139 exc. 81393,E_ELSE
+9290,"Other Services, Except Public Administration",Private households ,814,E_ELSE
+9370,Public Administration,Executive offices and legislative bodies ,"92111, 92112, 92114, pt. 92115",E_GVSL
+9380,Public Administration,Public finance activities ,92113,E_GVSL
+9390,Public Administration,Other general government and support ,92119,E_GVSL
+9470,Public Administration,"Justice, public order, and safety activities ","922, pt. 92115",E_GVSL
+9480,Public Administration,Administration of human resource programs  ,923,E_GVSL
+9490,Public Administration,Administration of environmental quality and housing programs ,"924, 925",E_GVSL
+9570,Public Administration,Administration of economic programs and space research,"926, 927",E_GVSL
+9590,Public Administration,National security and international affairs ,928,E_GVSL
+9670,Military,U. S. Army,928110,EGVFD
+9680,Military,U. S. Air Force,928110,EGVFD
+9690,Military,U. S. Navy,928110,EGVFD
+9770,Military,U. S. Marines,928110,EGVFD
+9780,Military,U. S. Coast Guard,928110,EGVFD
+9790,Military,"Armed Forces, Branch not specified",928110,EGVFD
+9870,Military,Military Reserves or National Guard,928110,EGVFD
+9920,Unemployed,"Unemployed, last worked 5 years ago or earlier or never worked",,
